@@ -1,0 +1,5 @@
+﻿  17X_AB.cpp
+C:\Users\ig\Desktop\takata\prog_prac\Atcoder\17X_AB\17X_AB\17X_AB.cpp(97,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\Atcoder\17X_AB\17X_AB\17X_AB.cpp(154,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\Atcoder\17X_AB\17X_AB\17X_AB.cpp(189,16): warning C4244: '引数': '__int64' から 'const unsigned int' への変換です。データが失われる可能性があります。
+  17X_AB.vcxproj -> C:\Users\ig\Desktop\takata\prog_prac\Atcoder\17X_AB\Debug\17X_AB.exe
