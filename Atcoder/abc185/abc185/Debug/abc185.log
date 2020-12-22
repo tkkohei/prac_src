@@ -1,0 +1,4 @@
+﻿  abc185.cpp
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(22,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(25,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  abc185.vcxproj -> C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\Debug\abc185.exe
