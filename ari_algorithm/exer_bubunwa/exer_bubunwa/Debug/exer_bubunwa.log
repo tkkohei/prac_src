@@ -1,0 +1,8 @@
+﻿  exer_bubunwa.cpp
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(36,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(48,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(72,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(82,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(114,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\exer_bubunwa\exer_bubunwa.cpp(123,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  exer_bubunwa.vcxproj -> C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_bubunwa\Debug\exer_bubunwa.exe

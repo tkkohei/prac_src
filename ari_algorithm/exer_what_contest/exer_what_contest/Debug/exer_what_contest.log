@@ -1,0 +1,3 @@
+﻿  exer_what_contest.cpp
+C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_what_contest\exer_what_contest\exer_what_contest.cpp(59,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  exer_what_contest.vcxproj -> C:\Users\ig\Desktop\takata\prog_prac\ari_algorithm\exer_what_contest\Debug\exer_what_contest.exe
