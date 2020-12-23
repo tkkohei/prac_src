@@ -1,5 +1,7 @@
 ﻿#include <iostream>
 #include <vector>
+#include <algorithm>
+#include <cmath>
 
 using namespace std;
 
@@ -79,10 +81,48 @@ void C2()
   cout << comb_chi(static_cast<long long int>(L - 1), static_cast<long long int>(11)) << "\n";
 }
 
+void D()
+{
+  int N, M; cin >> N >> M;
+  if (M == 0)
+  {
+    cout << "\n";
+    return;
+  }
+  vector<int> A(M);
+  for (int i = 0; i < A.size(); ++i) cin >> A[i];
+  sort(A.begin(), A.end());
+
+  int t_min;
+  if (A[0] != 1) t_min = A[0] - 1;
+  else           t_min = A[1] - A[0] - 1;
+  for (int i = 1; i < A.size(); ++i)
+  {
+    if (t_min > A[i] - A[i - 1]) t_min = A[i] - A[i - 1] - 1;
+    if (t_min <= 0)
+    {
+      cout << 0 << "\n";
+      return;
+    }
+  }
+  if (A[A.size() - 1] != N && t_min > N - A[A.size() - 1]) t_min = N - A[A.size() - 1];
+
+  int cnt = 0;
+  if (A[0] != 1) cnt += ceil((A[0] - 1) / (float)t_min);
+  for (int i = 1; i < A.size(); ++i)
+  {
+    cnt += ceil(((A[i] - A[i - 1] - 1) / (float)t_min));
+  }
+  if (A[A.size() - 1] != N) cnt += ceil((N - A[A.size() - 1]) / (float)t_min);
+
+  cout << cnt <<"\n";
+}
+
 int main()
 {
   //A();
   //B();
   //C(); //オーバーフローしてしまう
-  C2();
+  //C2();
+  D();
 }

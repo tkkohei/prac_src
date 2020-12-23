@@ -1,4 +1,10 @@
 ﻿  abc185.cpp
-C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(22,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
-C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(25,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(24,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(27,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(93,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(98,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(110,56): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(111,21): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(113,56): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\abc185\abc185.cpp(115,78): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
   abc185.vcxproj -> C:\Users\ig\Desktop\takata\prac_src\Atcoder\abc185\Debug\abc185.exe
